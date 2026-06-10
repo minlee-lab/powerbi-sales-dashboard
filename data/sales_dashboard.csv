@@ -1,0 +1,13 @@
+Month,Product,Region,Sales,MonthOrder
+Jan,Laptop,West,1200,1
+Jan,Mouse,East,200,1
+Feb,Laptop,West,1500,2
+Feb,Keyboard,North,300,2
+Mar,Monitor,South,700,3
+Mar,Mouse,East,250,3
+Apr,Laptop,West,1800,4
+Apr,Keyboard,North,350,4
+May,Monitor,South,900,5
+May,Mouse,East,300,5
+Jun,Laptop,West,2200,6
+Jun,Keyboard,North,400,6
